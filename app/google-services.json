@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "853502188546",
+    "firebase_url": "https://myfirebasedemoapp-4d0f3.firebaseio.com",
+    "project_id": "myfirebasedemoapp-4d0f3",
+    "storage_bucket": "myfirebasedemoapp-4d0f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853502188546:android:9de44f548406fd4a",
+        "android_client_info": {
+          "package_name": "com.example.dil.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853502188546-6f0q1qj90picv8ftvbvuvtg1cr28t8kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBOJKlE2dcLQNEdI8FdXGFvuXRh60-zY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853502188546-6f0q1qj90picv8ftvbvuvtg1cr28t8kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
